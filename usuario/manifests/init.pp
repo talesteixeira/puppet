@@ -1,6 +1,6 @@
 class usuario::cria {
 
-user { 'testuser1':
+user { 'testuser2':
   ensure           => 'present',
   gid              => '1002',
   home             => '/home/testuser',
