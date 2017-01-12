@@ -1,4 +1,4 @@
-# Ess classe cria um usuario pra teste
+# Essa classe cria um usuario pra teste
 
 class usuario::cria {
 
