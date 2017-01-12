@@ -1,5 +1,5 @@
 # Essa classe cria um usuario pra teste
-
+#
 class usuario::cria {
 
 user { 'testuser1':
